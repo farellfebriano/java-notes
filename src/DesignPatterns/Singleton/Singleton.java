@@ -1,6 +1,6 @@
 package DesignPatterns.Singleton;
 
-class Singleton{
+public class Singleton{
     private static volatile Singleton instance;
     private String data;
 
