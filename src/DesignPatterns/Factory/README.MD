@@ -20,8 +20,10 @@ Defines what all products must implement
 4.) ConcreteProduct
 Actual class returned by the factory method
 
-## CODE 
+## CODE
+![App Screenshot](https://github.com/farellfebriano/java-notes/blob/main/src/DesignPatterns/Factory/diagram/Screenshot%202025-12-02%20at%201.06.09%E2%80%AFPM.png?raw=true)
 
+![App Screenshot](https://github.com/farellfebriano/java-notes/blob/main/src/DesignPatterns/Factory/diagram/Screenshot%202025-12-02%20at%201.06.51%E2%80%AFPM.png?raw=true)
 
 
 
