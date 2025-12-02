@@ -6,6 +6,8 @@
 - makes it easy to extend the product independently from the rest of application
 
 ## Factory Method Structure
+![App Screenshot](https://github.com/farellfebriano/java-notes/blob/main/src/DesignPatterns/Factory/diagram/Screenshot%202025-12-02%20at%201.02.37%E2%80%AFPM.png?raw=true
+)
 1.) Creator (abstract class)
 Has a factory method like createProduct()
 
@@ -17,3 +19,10 @@ Defines what all products must implement
 
 4.) ConcreteProduct
 Actual class returned by the factory method
+
+## CODE 
+
+
+
+
+
