@@ -8,6 +8,7 @@
 ## Factory Method Structure
 ![App Screenshot](https://github.com/farellfebriano/java-notes/blob/main/src/DesignPatterns/Factory/diagram/Screenshot%202025-12-02%20at%201.02.37%E2%80%AFPM.png?raw=true
 )
+<br>
 1.) Creator (abstract class)
 Has a factory method like createProduct()
 
@@ -22,7 +23,7 @@ Actual class returned by the factory method
 
 ## CODE
 ![App Screenshot](https://github.com/farellfebriano/java-notes/blob/main/src/DesignPatterns/Factory/diagram/Screenshot%202025-12-02%20at%201.06.09%E2%80%AFPM.png?raw=true)
-
+<br>
 ![App Screenshot](https://github.com/farellfebriano/java-notes/blob/main/src/DesignPatterns/Factory/diagram/Screenshot%202025-12-02%20at%201.06.51%E2%80%AFPM.png?raw=true)
 
 
